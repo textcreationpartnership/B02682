@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue or discovrse betweene a Parliament-man and a Roman-Catholick, touching the present state of recusants in England. And shewing how from time to time they have alwaies maintained their religion by treason and conspiracies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02682</idno>
+            <idno type="STC">Wing D1368A</idno>
+            <idno type="STC">ESTC R175947</idno>
+            <idno type="EEBO-CITATION">53299045</idno>
+            <idno type="OCLC">ocm 53299045</idno>
+            <idno type="VID">179815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179815)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2804:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue or discovrse betweene a Parliament-man and a Roman-Catholick, touching the present state of recusants in England. And shewing how from time to time they have alwaies maintained their religion by treason and conspiracies.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179815:1" rendition="simple:additions"/>
+            <p>A DIALOGUE OR DISCOVRSE betweene a Parliament-man And a Roman-Catholick, <hi>Touching</hi> The preſent ſtate of Recuſants in ENGLAND.</p>
+            <p>And ſhewing how from time to time they have alwaies Maintained their Religion by Treaſon and Conſpiracies.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:179815:2"/>
+            <head>A Dialogue or Diſcourſe be<g ref="char:EOLhyphen"/>tweene a Parliament-man and a Roman Catholick.</head>
+            <sp>
+               <stage>Catholike.</stage>
+               <p>SIR, What are your Senators reſolved to ruine all Catho<g ref="char:EOLhyphen"/>lickes?</p>
+            </sp>
+            <sp>
+               <speaker>Proſt.</speaker>
+               <p>We ſhall proceede againſt you according to the Lawes.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>But the Lawes ſometimes may be ſuſpended: for when the cauſe and motive of the Law doth univerſally ceaſe, the Law it ſelfe may be anulled.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>True: but not in our caſe; for the motives, which heretofore induced our Parliaments to enact Statutes againſt Recufants, doe ſtill continue, neither are they as yet univerſal<g ref="char:EOLhyphen"/>ly ceaſed. Therefore the neglect of putting them in executi<g ref="char:EOLhyphen"/>on is both offencive to God, and dangerous to our State.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>Yet I cannot ſee, why the ſuſpention of a rigorous hand, and a charitable moderation of your illimited power over a ſmall number of poore Catholickes can breede a ſcruple in your Conſcience, on bee offencive to Almighty God, for al<g ref="char:EOLhyphen"/>though in your opinion the Religion of Catholicks be falſe, and conſequently, that your zeale to the Truth doe urge you to ſuffer no miſcreants among you: yet this zeale being onely grounded upon the literall text of the Scripture, interpreted by your ſelves, how can you thinke that the explication of this ſacred authority is ſo evident, as that hee may juſtly bee puni<g ref="char:EOLhyphen"/>ſhed, who will not adheare to your opinion. But however, may you not in ſure charity without offence to God ſuffer us to live amongſt you, with intention to bring us to the knowledge of
+<pb n="3" facs="tcp:179815:2"/>you deeme to be truth, and ſo with intention to make us of your Religion: This you ſee is the practiſe of other Nations, both Catholickes and Proteſtants to admitt and to lerate among them ſuch as profeſſe a different beliefe from theirs: It is ſo you know in France, Spaine, Germany, Swevia, Polonia, Muſ<g ref="char:EOLhyphen"/>covia, Turkey, Perſia, &amp;c. will you onely be more ſcrupulous, then all the Chriſtians of Europe, and more ſevere to your own Country men, then Turkes, and other Heathen Princes?</p>
+            </sp>
+            <sp>
+               <speaker>Prot</speaker>
+               <p>Could I bee perſwaded that ſuch a connivence at Recu<g ref="char:EOLhyphen"/>ſants were not hurtfull to our preſent governement, and that the Roman Catholik could be true and loyall ſubjects to a Pro<g ref="char:EOLhyphen"/>teſtant King or Common wealth, I would never give my voyce to have them uſed with rigour and ſevertity, but you Papiſts are much pemitious to our State. Therefore it is not your Re<g ref="char:EOLhyphen"/>ligion, but Treaſon that we puniſh.</p>
+            </sp>
+            <sp>
+               <speaker>Cath</speaker>
+               <p>I confeſſe this ſeverity ſprung not onely from the mo<g ref="char:EOLhyphen"/>tives of State, and Policie, but was much exaſperated by the rigorus proceedings of the Court of Rome, and by the factious combinations, and ſeditious plots of ſome few buſie bout feux of the Roman faith. Yet I am confident, that our Religion doth not teach us any thing contrary to the fidelity we owe to our King and Country, though Proteſtants, yea even though they perſecute us.</p>
+            </sp>
+            <sp>
+               <speaker>Ptot.</speaker>
+               <p>But I can tell you, that the vaſt ambition of the Court of Rome, their continuall practiſes &amp; endeavours to conſerve &amp; augment their greatneſſe, and the Popes primacy, &amp; preten<g ref="char:EOLhyphen"/>ded authority to create and depoſe Kings and, Emperours were able to make us Iealous of you, but I will onely ſpeake of the ſpeciall power, which you generally give him over Hereticall and Schiſmaticall States and Princes, as our State and King is in your opinion.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>In this many wiſe and experienced Catholickes doe blame the ambition of the Court of Rome as well as you. And as for the Popes power of creating Kings, there is now no Prince will either expect or deſire creation from him.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>How ever you ſee, that our caſe is different from the
+<pb n="4" facs="tcp:179815:3"/>caſe of Catholicke Princes, for you ſay, that the Pope can de<g ref="char:EOLhyphen"/>poſe Kings for Hereſie, or Schiſme: (and this is a generall te<g ref="char:EOLhyphen"/>nent amongſt you) or for joyning in league, and alliance with Proteſtant States, nay for notorious vices: and ſome of you adde even for inſufficiency; and in all theſe caſes the Pope him<g ref="char:EOLhyphen"/>ſelfe muſt be judge. And what Proteſtant Prince can be ſecure, ſuppoſing this doctrine be true, and that the Popes party, ei<g ref="char:EOLhyphen"/>ther forraigne, or domeſticall, be ſtronger, then ſuch a Princes? Do you not hold that the Pope can abſolve the ſubjects of ſuch a King from their allegiance? and hath he not done it here in <hi>England?</hi> Did not his <hi>Nuncio</hi> in <hi>Spaine</hi> ſolicite for many yeares together, to have an Armado ſent againſt this Kingdome. And was not this effected at the inſtance, and purſuit of your Eng<g ref="char:EOLhyphen"/>liſh Ieſuites, did not <hi>Cardinall Allen</hi> write, and print a ſeditious letter by the Popes command, to ſtirre up the Papiſts of Eng<g ref="char:EOLhyphen"/>land to rebellion? Was not Queene <hi>Elizabeth</hi> excommunica<g ref="char:EOLhyphen"/>ted, and depoſed by the Pope? Did not <hi>Dolman</hi> write a Book by the Popes order, to diſprove Queen <hi>Elizab.</hi> Title to the crown, and to transferre it upon <hi>Portugall?</hi> Theſe are your tenents, and your practiſes muſt needs follow upon all occaſions; which if ſometimes they do not, it is not for want of Principles to make them good in your conceit, but for want of power to put them in execution: and therefore we conclude, that both the Pope and you, do but expect a fit oppertunity to blow up both our King and Parliament, and ſet up your Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>Thoſe authors, which you ſeeme moſt to point at, too too much favouring the Popes authority in temporall affaires, have beene deſervedly condemned by our Catholicke Vniver<g ref="char:EOLhyphen"/>ſities, and their bookes publiquely burned by the order of Ca<g ref="char:EOLhyphen"/>tholicke Magiſtrates. And for my part I ſhall not thinke him innocent, or a worthy member of this Common-wealth, that will not acknowledge his faithfull loyalty, and conſtant allegi<g ref="char:EOLhyphen"/>ance to our King, and countrey, though Proteſtants; indepen<g ref="char:EOLhyphen"/>dent of all forraigne, or papall authority.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Why doe you not then at the leaſt take the Oath of al<g ref="char:EOLhyphen"/>legiance? Though perhaps for the oath of ſupremacy, there may be ſome more difficultie in it.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:179815:3"/>
+               <speaker>Cath.</speaker>
+               <p>Sir, if you onely intend to be ſecured of our allegiance we ſhall eaſily agree, but to make us decide a queſtion diſpu<g ref="char:EOLhyphen"/>table in Schooles by ſwearing an univerſall negative, to what effect I pray? For although in my opinion the Pope cannot de<g ref="char:EOLhyphen"/>poſe any abſolute Prince, though an Hereticke, no not in any caſe of his owne power, or by any authority inherent in his per<g ref="char:EOLhyphen"/>ſon or dignity; nor doe I thinke, that any indifferent man will ſay, that the Pope can depoſe King <hi>Charles,</hi> that now raigneth, much leſſe that he can abſolve his Catholike Subjects, from their allegiance due unto him. Wherefore as wiſe States-men you ought not to make us ſweare to this, or that univerſall te<g ref="char:EOLhyphen"/>nent in points proble, matically diſputed by Divines: but to ſe<g ref="char:EOLhyphen"/>cure your ſelves of our particular allegiances and fidelity to our King, and Countrey, which you may juſtly exact of us, and we as juſtly performe. And for the Oath of Supremacy 'tis a meere folly to imagine, that any ſecular, or Lay-men can be ſupreame of the Church: None of your ſelves beleive it, nor any Chriſti<g ref="char:EOLhyphen"/>an Religion, or ſect did ever before <hi>Henry</hi> 8. Profeſſe ſuch a te<g ref="char:EOLhyphen"/>nent, and Maſter <hi>Calvin</hi> in his relation, <hi>de Valentiniano, Theodo<g ref="char:EOLhyphen"/>ſio,</hi> and Saint <hi>Ambroſio,</hi> ſtrongly oppoſing this fond aſſection calls them, who firſt gave this title to <hi>Henry</hi> 8. <hi>Homines inconſi<g ref="char:EOLhyphen"/>derati</hi> and concludes, <hi>erunt enim Blaſpemi, cùm vocarent ipſum, ſummum Eccteſiae caput ſub Christo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>I could wiſh all the papiſts of <hi>England</hi> were of your o<g ref="char:EOLhyphen"/>pinion in the point of diſpoſition, it would then perhaps be bet<g ref="char:EOLhyphen"/>ter for them: but the contrary doctrine is more generall a<g ref="char:EOLhyphen"/>mongſt you, and thence doe follow moſt dangerous ſequels, and ſometimes moſt enormous effects: your Divines tell you, that 'tis lawfull for any Catholicks Subject, to take armes a<g ref="char:EOLhyphen"/>gainſt his Prince, if he be either an Hereticke, or an open perſe<g ref="char:EOLhyphen"/>cutor of the Roman Church: nay, that it is no ſinne to kill him either by private treachery, or publique aſſaults: and of this we have ſeene in our age divers lamentable examples practiſed a<g ref="char:EOLhyphen"/>broad, and ſome moſt execrable attempts here at home.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>Truly Sir, your Divines, as <hi>Luther, Calvin,</hi> and others are more foreward in this point, then any Catholicke I know:
+<pb n="6" facs="tcp:179815:4"/>and their practiſes have farre exceeded ours; except perhaps the Powder Treaſon: but that was Diabolicall beyond meaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Well, you will never waſh off the infamy of that pow<g ref="char:EOLhyphen"/>der-plot; you know what proofes were brought in againſt your Ieſuites before the Lords Commiſſioners at that time.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>Sir, you know I am neither Prieſt, nor Ieſuite: and I thinke there is never a Catholicke Gentleman in <hi>England,</hi> but doth abhorre and deteſt that wicked conſpiracy, as much as any Proteſtant of you all And ſure King <hi>Iames</hi> knew well, that this monſter was hatched in the breaſt of ſome particular Ca<g ref="char:EOLhyphen"/>tholickes; See his Proclamation <hi>November.</hi> 7. His wordes are theſe: We are by good experience ſo well perſwaded of the loy<g ref="char:EOLhyphen"/>altie of divers of our Subjects of the Roman religion, that they doe as much abhorre this deteſtable conſpiracy, as we our ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>But I could object more diſloyalties, if the time would permit, then you can anſwere too: and the root thereof ſpring from your ſeminary Prieſts, who by their power, and authority have a maine ſway over your conſciences, and under pretence of Religion can bend your paſſions to their owne endes, and deſignes.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>Sir, I confeſſe ſome thinges may be objected in that kind worthy the reflection of a good common-wealths man: but if you be pleaſed to uſe your clemency towards your poore Catholicke Subjects, and gracioſly to conceive at their ſubſi<g ref="char:EOLhyphen"/>ſtance: you ſhall finde them ready to conſpire with none, nor aime at their owne temporall good, but by the advancement of your common-wealth, whereof if once you vouchſafe to admit them as worthy members, the Popes power ſhall no way hin<g ref="char:EOLhyphen"/>der their obedience to his Majeſty and you.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>I could wiſh your Prieſts would do ſo too, but I ſee not how we can expect ſuch loyalty at their hands, and therefore you ſee his Majeſty hath proclaimed their baniſhment. And ſurely if we had ſuffered the Popes agent to continue here, he would have had a care of his Maſters intereſts without doubt.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:179815:4"/>
+               <speaker>Cath.</speaker>
+               <p>Sir, how fit it may be to ſuffer an Agent from the Pope in a State generally Proteſtant, intermixed with ſome Catholicks, I will not diſpute, but for the baniſhing of our Prieſts, meerely for exer<g ref="char:EOLhyphen"/>ciſing their function, tis in vaine; you may hang them at your plea<g ref="char:EOLhyphen"/>ſure, but as long as there remaines a Catholicke in <hi>England</hi> there will be Prieſts, becauſe we beleeve, that we have an eſſentiall depen<g ref="char:EOLhyphen"/>dance, and neceſſity of Prieſts. And therefore Prieſts will venture their lives for the ſalvation of our Soules: 'Tis, and ever hath beene the ſpirit of our Church and Religion, when all comes to all, you will finde that a moderate hand over us, is more Chriſtian, more hu<g ref="char:EOLhyphen"/>maine, and more politick.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Sir, If you could finde a way how wee might bee ſecured of the fidelity of your Prieſts, and that their dependance of Rome, and affection to forraigne ſtates, were not obnoctious and liable to our juſt ſuſpitions, I could bee content Recuſants lived amonſt us, in a civill intelligence, and ordinary friendſhip. But you ſee wee are ſo zealous of them, that we have rather permitted ſtrangers &amp; forraign Prieſts to reſide in hir Majeſties Chappell, though with no little danger; for 'tis a wonder, that the more zealous ſort of our people have not made ſome tummults, and uproares, ſeeing the Chappell ſo frequented, as it was: and you know we cannot bee ſo ſecured of any ſtrangers fidelity to our Countrey, eſpecially if they be Prieſts, and of a different Religion, and daily frequent both Court and Towne, being imbol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned in that they are not liable to our Lawes; for beſides their zeale to Religion, they are naturally inclined to give notice of what they heare, and favour in what they can, their owne Countries intereſts.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>Truly ſir I doubt not but I can clearely ſhow you, how you may be ſecured of the loyally of ſome of our Englſh Prieſt, and how their dependance of Rome may bee of that nature, as ſhall give you no juſt occaſion of ſuſpition, and therefore might bee admit<g ref="char:EOLhyphen"/>ted upon thoſe termes and conditions, as would baniſh all ſuſpition, and prevent all dangers. A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for her Majeſties Chappell, trie the Ar<g ref="char:EOLhyphen"/>ticles of her marriage, agreed upon betwixe the two States, ratified under the broad Seale of each Kingdome, &amp; it would be againſt the law of Nations, and unworthy the fidelity of a Chriſtian Prince to
+<pb n="8" facs="tcp:179815:5"/>infringe, and violate ſuch a publique contract, alas Sir, conſider that now whileſt you happily are ſitting at the ſterne of the Common-wealth, and piouſly endeavouring to reforme the corruptions, and abuſes of our Courts, and government, as alſo reſpectively ſeeking to vindicate the ancient liberty of our Countrey, ſhall we only your poore Catholicke Subjects be excluded from this generall Iubilee; take then ſome moderate courſe to ſecure your ſelves of our allegi<g ref="char:EOLhyphen"/>ance: and let us all conſpire to make one Civill Body, that joyned, and united both in your domeſticke intereſts, and in your forraigne leagues and warres we may (as your Catholicke Allies doe) engage our ſelves as willingly, and as farre as you, Did not King <hi>Iames</hi> ſay well; a too ſevere perſecution makes men deſperate? <hi>Non coercet, ſed provocat violentia.</hi> Clemency begets love, love breeds loyalty.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>If theſe your tenents were common to all Papiſts, I conceive you would finde us more indulgent. Therefore me thinkes it were worthy your labour to draw ſuch a Proclamation of your fidelity, as you thinke Papiſts might lawfully take, and as would perhaps con<g ref="char:EOLhyphen"/>tent our Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Cath.</speaker>
+               <p>Sir, I framed the laſt Winter p ivately to my ſelfe a ſhort petition in the behalfe of Catholickes, and have ſince added there<g ref="char:EOLhyphen"/>unto ſuch a Proteſtation as you ſpeake of; here they are peruſe them I pray, and if you thinke fit, make your mederate friends pertakers of them, whom if they ſatisfie, I ſhall be heartily glad, if nothing will ſerve but our totall ruine, Gods will be done, at leaſt it will be a com<g ref="char:EOLhyphen"/>fort to have given this teſtimony of our allegiance, and fidelity; ſo that if we periſh, it muſt needs be for our religion, ſince the paſt crimes of ſome few, and the diſputable opinions of others can ne<g ref="char:EOLhyphen"/>ver be a legall warrant to condemne the innocent: the next time we meete, you will tell me more, in the interim God be with you.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179815:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
